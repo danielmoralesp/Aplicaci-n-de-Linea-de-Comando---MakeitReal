@@ -1,14 +1,14 @@
-El Metodo en Ruby para encontrar el ultimo elemento de un array es: (Definicion)
+1. El Metodo en Ruby para encontrar el ultimo elemento de un array es: (Definicion)
 last (Respuesta)
 
-Cual es el prefijo usado para crear una clase (Definicion)
+2. Cual es el prefijo usado para crear una clase (Definicion)
 class (Respuesta)
 
-Cual es el nombre usado para definir una funcion (Definicion)
+3. Cual es el nombre usado para definir una funcion (Definicion)
 def (Respuesta)
 
-Un metodo se compone de atributos y... (Definicion)
+4. Un metodo se compone de atributos y... (Definicion)
 acciones (Respuesta)
 
-Como se define una entrada de datos String por consola de un usuario (Definicion)
+5. Como se define una entrada de datos String por consola de un usuario (Definicion)
 gets.chomp
