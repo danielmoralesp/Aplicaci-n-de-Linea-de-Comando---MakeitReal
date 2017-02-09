@@ -1,3 +1,6 @@
 # Aplicaci-n-de-Linea-de-Comando---MakeitReal
 
-<img src="https://www.dropbox.com/s/c9qexr0on1em16b/Proyecto%20MakeitReal.png?dl=0">
+<h2>Diagrama de Flujo Juego Reto5</h2>
+<p>Este es un sencillo Diagrama de Flujo, donde se explica la iteracion por el juego Reto5, donde simplemente se genera una Definicion, la cual se repite en 5 ocasiones siempre y cuando la respueste este correcta. </p>
+<img src="https://lh3.googleusercontent.com/RMKnjxIt9lYi5_9hbY3Awwq4TV34kkdpxby_cdhGV1JvbIMAPGiAUCyFqPVa2LdQbeK8a8RS3BhbP46L9Q3Xx7mM1JcDS9ep2W62_IdFXA_q3qCM2DGjDXdVbQAiHVYrfadzFpGV-8w0_1qFRQhvASX8ZiAGTT4l2axnrXKIE3Kcdg1bpXVAMKyuvafjd-a2uUWScMS9U49XoHySIhFevQyyXRusfWOPnF09sSnmcpPkhNEmd5w3OZKhpMd39zKmH0OCZBHDEFhSxsi8gWYE8pTPeJEFqMJx31X0IKKFaRW_nmMuTbuR0nl-ota4E5-Gd-dwMhGz2KL1gAjEOK0tezAMlQO-SL-It1Lprgb-aRpn8avqNA_nnueBrrfU_l0eBTDpvfjJzZwwcI6ubx11swMcyzl7pZyaiERpfT77Liufe2wxFlryzf67w64CcOxbv-jWTnbpf7HA1yIQSZFXnU5Szm7-6V4hz_6eicoj5xjLtds31OmbdlrvJ4kZcBr7w1VNof5QAKIXwyjTj_lq1aJXiDb9cNKUvN41AtonoAbVlPsCug-vBtwJ0Q57WWtsrBHVpKiR5vvABRjYQaHCwAWt8IdfQk8EmBPlvltH6Fkee94SCfem=w226-h543-no"/>
+
